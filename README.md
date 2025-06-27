@@ -1,6 +1,7 @@
 # 🔥 Wordlist Forge
 
 <img src="https://github.com/user-attachments/assets/46fd3ac3-bd05-42a9-8ac4-94c98c765b1d" alt= "WordlistForger" width ="500"/>
+<br>
 Smart password wordlist generator for bruteforce attacks, phishing payloads, and password profiling — built for social engineering red teamers and pentesters.  
 
 ---
