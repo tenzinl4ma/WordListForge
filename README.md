@@ -47,6 +47,8 @@ Generated list is saved as:
 ```
 wordlist.txt
 ```
+<img width="833" alt="Screenshot 2025-06-27 at 8 33 40 PM" src="https://github.com/user-attachments/assets/2bf275e5-f4ad-4148-be71-04741ae16e60" />
+***Fraction of list generated Photo***
 
 Can be used directly with tools like:
 
@@ -54,6 +56,9 @@ Can be used directly with tools like:
 - Medusa
 - Burp Suite Intruder
 - Custom scripts
+  
+<img width="1274" alt="Screenshot 2025-06-27 at 8 32 57 PM" src="https://github.com/user-attachments/assets/6292e0a2-ce3e-45d4-8f29-19a315535832" />
+
 
 ---
 
