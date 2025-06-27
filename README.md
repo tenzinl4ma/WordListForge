@@ -48,8 +48,9 @@ Generated list is saved as:
 wordlist.txt
 ```
 <img width="833" alt="Screenshot 2025-06-27 at 8 33 40 PM" src="https://github.com/user-attachments/assets/2bf275e5-f4ad-4148-be71-04741ae16e60" />
+<br>
 ***Fraction of list generated Photo***
-
+---
 Can be used directly with tools like:
 
 - Hydra
